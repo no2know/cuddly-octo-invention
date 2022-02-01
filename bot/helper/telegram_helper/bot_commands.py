@@ -4,7 +4,7 @@ class _BotCommands:
         self.MirrorCommand = 'mirror1'
         self.UnzipMirrorCommand = 'unzipmirror1'
         self.ZipMirrorCommand = 'zipmirror1'
-        self.CancelMirror = 'cance1l'
+        self.CancelMirror = 'cancel1'
         self.CancelAllCommand = 'cancelall1'
         self.ListCommand = 'list1'
         self.SearchCommand = 'search1'
